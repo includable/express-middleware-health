@@ -1,0 +1,22 @@
+{
+  "name": "@includable/middleware-health",
+  "version": "1.0.0",
+  "description": "Health check and metrics middleware.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/includable/middleware-health.git"
+  },
+  "keywords": [
+    "middleware",
+    "express",
+    "metrics",
+    "health"
+  ],
+  "author": "Thomas Schoffelen <thomas@includable.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/includable/middleware-health/issues"
+  },
+  "homepage": "https://github.com/includable/middleware-health#readme"
+}
