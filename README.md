@@ -4,12 +4,12 @@ This package adds a `/health` endpoint that can be used for status checks and li
 
 ```json
 {
-  "status": 200,
-  "friendlyName": "OK",
-  "environment": "production",
-  "uptime": 80374,
-  "requests": 208,
-  "responseTime": 0.001
+   "status": 200,
+   "friendlyName": "OK",
+   "environment": "production",
+   "uptime": 80374,
+   "requests": 208,
+   "responseTime": 0.001
 }
 ```
 
